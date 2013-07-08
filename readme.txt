@@ -41,7 +41,8 @@ Make sure your browser supports HTML5 video. A list of browsers that have this f
 
 == Screenshots ==
 
-1. screenshot1.jpg Illustrates the video options available in the 'Edit Product' pages in WP backend.
+1. This screenshot illustrates the video options available in the 'Edit Product' pages in WP backend.
+2. This screenshot shows the video tab in the frontend.
 
 == Changelog ==
 
