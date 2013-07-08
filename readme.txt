@@ -11,14 +11,15 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 
 Woocomerce HTML5 Video is a woocommerce add-on which allows you to add videos to your products in your online store by adding a new tab on the single products page containing the selected videos. 
+
 This plugin uses HTML5 to render videos in your products description page. You can embed multiple videos from Youtube or upload your own video. The supported video formats are MP4 and Ogg.
 
 WooCommerce HTML5 Video works with any theme that supports WooCommerce.
 
-Localization
+= Localization =
 
-English (default).
-Spanish
+*English (default).
+*Spanish
 
 == Installation ==
 
