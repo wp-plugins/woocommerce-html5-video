@@ -1,7 +1,7 @@
 === Woocomerce HTML5 Video ===
 
 Contributors: webilop
-Tags: woocomerce add-on, online store, product video, html5 video, mp4, ogg
+Tags: woocommerce add-on, woocommerce extension, online store, product video, html5 video, commerce, embedded video
 Requires at least: 3.0.1
 Tested up to: 3.5.1
 Stable tag: trunk
@@ -14,11 +14,12 @@ Woocomerce HTML5 Video is a woocommerce add-on which allows you to add videos to
 
 This plugin uses HTML5 to render videos in your products description page. You can embed multiple videos from Youtube or upload your own video. The supported video formats are MP4 and Ogg.
 
-WooCommerce HTML5 Video works with any theme that supports WooCommerce.
+WooCommerce HTML5 Video works with any theme that supports WooCommerce and is compatible with WooCommerce 2.0+.
 
 = Localization =
 
 *English (default).
+
 *Spanish
 
 == Installation ==
@@ -29,7 +30,9 @@ WooCommerce HTML5 Video works with any theme that supports WooCommerce.
 3. Create your products through 'the Products' menu option
 4. Go to the Edit page of one of the created products. Under the 'Product Data' box, select the 'Video' optoin at the bottom.
 Select the video source: Embedded code or uploaded video.
-5. Update the product.
+5.a. For the 'Embedded code' option, paste the code from Youtube in the textarea. You can add up to 3 embedded videos.
+5.b. If you selected the 'Upload video'option, check the video format you want to upload (mpa, ogg) and Upload or Select the corresponding videos.
+6. Update your product.
 
 == Frequently Asked Questions ==
 
