@@ -16,6 +16,8 @@ This plugin uses HTML5 to render videos in your products description page. You c
 
 WooCommerce HTML5 Video works with any theme that supports WooCommerce and is compatible with WooCommerce 2.0+.
 
+For more info, visit http://www.webilop.com/products/wp-plugins/woocommerce-html5-video/
+
 = Localization =
 
 *English (default).
@@ -41,6 +43,8 @@ The supported video formats are MP4 and Ogg.
 
 = I cannot see the video in the frontend =
 Make sure your browser supports HTML5 video. A list of browsers that have this feature can be found at http://www.w3schools.com/html/html5_video.asp
+
+For more info, visit http://www.webilop.com/products/wp-plugins/woocommerce-html5-video/
 
 == Screenshots ==
 
