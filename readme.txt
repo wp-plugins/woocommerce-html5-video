@@ -1,7 +1,7 @@
 === Woocomerce HTML5 Video ===
 
 Contributors: webilop
-Tags: woocommerce add-on, woocommerce extension, online store, product video, html5 video, commerce, embedded video
+Tags: woocommerce add-on, woocommerce extension, online store, product video, html5 video, commerce, embedded video, video tab
 Requires at least: 3.0.1
 Tested up to: 3.5.1
 Stable tag: trunk
@@ -44,7 +44,7 @@ The supported video formats are MP4 and Ogg.
 = I cannot see the video in the frontend =
 Make sure your browser supports HTML5 video. A list of browsers that have this feature can be found at http://www.w3schools.com/html/html5_video.asp
 
-For more info, visit http://www.webilop.com/products/wp-plugins/woocommerce-html5-video/
+For more info, visit http://www.webilop.com/products/wp-plugins/woocommerce-html5-video/faq-woocommerce-html5-video/
 
 == Screenshots ==
 
