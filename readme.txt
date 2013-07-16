@@ -3,7 +3,7 @@
 Contributors: webilop
 Tags: woocommerce add-on, woocommerce extension, online store, product video, html5 video, commerce, embedded video, video tab
 Requires at least: 3.0.1
-Tested up to: 3.5.1
+Tested up to: 3.5.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -49,7 +49,8 @@ For more info, visit http://www.webilop.com/products/wp-plugins/woocommerce-html
 == Screenshots ==
 
 1. This screenshot illustrates the video options available in the 'Edit Product' pages in WP backend.
-2. This screenshot shows the video tab in the frontend.
+2. You can upload your own videos or select them from the media library. The supported format are MP4 and Ogg.
+3. This screenshot shows the video tab in the frontend.
 
 == Changelog ==
 
