@@ -4,7 +4,7 @@ Contributors: webilop
 Tags: woocommerce add-on, woocommerce extension, online store, product video, html5 video, e-commerce, embedded video, video tab
 Requires at least: 3.0.1
 Tested up to: 3.5.2
-Stable tag: trunk
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,7 +24,7 @@ WooCommerce HTML5 Video works with any theme that supports WooCommerce and is co
 
 = Documentation =
 
-To access the documentation, visit http://www.webilop.com/products/wp-plugins/woocommerce-html5-video/
+To access the plugin documentation, visit http://www.webilop.com/products/wp-plugins/woocommerce-html5-video/
 
 == Installation ==
 
@@ -58,3 +58,5 @@ For more info, visit http://www.webilop.com/products/wp-plugins/woocommerce-html
 
 = 1.0 =
 * First general availability plug-in version
+= 1.1 =
+* Default video dimension are taken from the settings page.
