@@ -1,7 +1,7 @@
 === Woocomerce HTML5 Video ===
 
 Contributors: webilop
-Tags: woocommerce add-on, woocommerce extension, online store, product video, html5 video, e-commerce, embedded video, video tab
+Tags: woocommerce add-on, woocommerce extension, online store, product video, html5 video, e-commerce, embedded video, video tab, woocommerce video
 Requires at least: 3.0.1
 Tested up to: 3.5.2
 Stable tag: 1.1
@@ -16,6 +16,9 @@ This plugin uses HTML5 to render videos in your products description page. You c
 
 WooCommerce HTML5 Video works with any theme that supports WooCommerce and is compatible with WooCommerce 2.0+.
 
+A complete user guide is available in English at:  http://www.webilop.com/products/woocommerce-html5-video/
+and in Spanish: http://www.webilop.com/es_ES/productos/woocommerce-html5-video-2/
+
 = Localization =
 
 *English (default).
@@ -24,7 +27,8 @@ WooCommerce HTML5 Video works with any theme that supports WooCommerce and is co
 
 = Documentation =
 
-To access the plugin documentation, visit http://www.webilop.com/products/wp-plugins/woocommerce-html5-video/
+To access the plugin documentation in English, visit http://www.webilop.com/products/woocommerce-html5-video/
+The documentation in Spanish is also availale at: http://www.webilop.com/es_ES/productos/woocommerce-html5-video-2/
 
 == Installation ==
 
