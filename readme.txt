@@ -18,9 +18,11 @@ WooCommerce HTML5 Video works with any theme that supports WooCommerce and is co
 
 = Localization =
 
-*English (default).
-
+*English (default)
 *Spanish
+*Persian
+
+If you want to contribute with the localization of this plugin, you can send us your .mo and .po files to contact[at]webilop.com
 
 = Documentation =
 
@@ -61,3 +63,5 @@ For more info, visit http://www.webilop.com/products/wp-plugins/woocommerce-html
 * First general availability plug-in version
 = 1.1 =
 * Default video dimension are taken from the settings page.
+= 1.2 =
+*Persian localization was added. Special thanks to Khalil Delavaran (khalil.delavaran[at]gmail.com) for this contribution.
