@@ -5,7 +5,7 @@
  * Description: Add videos to your products. This WooCommerce extension uses HTML5 to render videos. It supports embedded videos and MP4 and Ogg formats.
  * Author: Webilop
  * Author URI: http://www.webilop.com
- * Version: 1.1
+ * Version: 1.2
  * License: GPLv2 or later
  */
 // Exit if accessed directly
