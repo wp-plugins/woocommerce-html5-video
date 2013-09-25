@@ -4,7 +4,7 @@ Contributors: webilop
 Tags: woocommerce add-on, woocommerce extension, online store, product video, html5 video, e-commerce, embedded video, video tab, woocommerce video
 Requires at least: 3.0.1
 Tested up to: 3.5.2
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -65,3 +65,5 @@ For more info, visit http://www.webilop.com/products/wp-plugins/woocommerce-html
 * Default video dimension are taken from the settings page.
 = 1.2 =
 *Persian localization was added. Special thanks to Khalil Delavaran (khalil.delavaran[at]gmail.com) for this contribution.
+= 1.3 =
+* $ replaced with jQuery to avoid conflicts in javascript files
