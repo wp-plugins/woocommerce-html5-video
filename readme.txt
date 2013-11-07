@@ -66,3 +66,7 @@ Make sure your browser supports HTML5 video. A list of browsers that have this f
 
 = 1.3.1 =
 * Fix of bug loading styles and scripts. Fix of bugs with the names of some functions. Organization of translation files in the folder structure.
+* Chinese localization was added. Special thanks to Jinlin Cui(崔金林) (cuijinlin@gmail.com) for this contribution.
+
+= 1.3.2 =
+* Fix of bug arranging the elements of the menus in Appereance > Menu.
